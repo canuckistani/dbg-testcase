@@ -1,5 +1,5 @@
 $(function() {
-
+  // debugger;
   var foo = "bar";
 
   var bar = function(x) {
